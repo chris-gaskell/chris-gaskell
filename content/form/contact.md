@@ -1,5 +1,5 @@
 ---
-title: Send me a note
+title: Send me a notes
 name: Contact Form
 description: "You can use this form to contact me about speaking engagements, collaborations, or simply to say hello.<br><br>I also love hearing if my educational materials have been helpful for you, and how they could be improved &#8212; particularly if they could be made more accessible &#9825;"
 date: 2019-02-25T13:38:41-06:00
