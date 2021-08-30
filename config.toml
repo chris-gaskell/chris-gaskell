@@ -28,12 +28,12 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Chris Gaskell Psychology"
-  orgLocal = "Anywhere"
+  orgName = "Chris Gaskell"
+  orgLocal = "Manchester, UK"
   description = "Clinical Psychologist"
   #favicon = "/img/favicon.ico"
   #logo = "/img/blogophonic-mark-dark.png"
-  mainSections = []
+  mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -111,6 +111,7 @@ enableEmoji = true
   category = "categories"
   series = "series"
   tag = "tags"
+
 
 [menu]
   # Configure header 
