@@ -1,0 +1,59 @@
+---
+title: 'The effectiveness of cognitive analytic therapy for borderline personality disorder: Utilizing a withdrawal experimental design to improve sensitivity to abandonment.'
+date: '2021-03-01'
+slug: sced-cat-bpd
+categories:
+  - '*Psychology and Psychotherapy: Theory, Research & Practice, 94*(S1)'
+tags:
+author:
+- Kellett, S., 
+- Gausden, J., &
+- Gaskell, C.
+doi: 10.1111/papt.12278"
+publishDate: '2021-01-03T01:04:26-04:00'
+publication_types:
+  - '2'
+publication: '*Psychology and Psychotherapy: Theory, Research & Practice, 94*(S1)'
+publication_short: 'BACP'
+abstract: '*Psychology and Psychotherapy: Theory, Research & Practice, 94*(S1)'
+featured: no
+url_pdf: ~
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/papt.12278
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+links:
+- icon: doi
+  icon_pack: ai
+  name: doi
+  url: https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/papt.12278
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF
+  url: https://bpspsychub.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/papt.12278
+#- icon: file-archive
+#  icon_pack: fas
+#  name: BIB
+#  url: content/blog/TDS-paper/shiny-guide.pdf
+
+  
+---
+
+## **Abstract**
+
+**Objectives:** A primary methodological weakness of the single-case experimental design (SCED) outcome studies conducted of the treatment of personality disorder with cognitive analytic therapy (CAT) is that they have failed to employ a withdrawal phase or cross-over design and so are deemed quasi-experimental. This study sought to implement a withdrawal design, in order to improve the internal validity of the study to make it a true SCED, and also in order to enable the patient to explore abandonment dynamics.
+
+**Design:** The study employed an A1/B1/A2/B2 with extended follow-up SCED with a female patient treated with CAT meeting diagnostic criteria for borderline personality disorder (BPD). Following the 6-week baseline period ‘A1’, treatment occurred in two phases (21 sessions ‘B1’ and 24 sessions ‘B2’) sandwiching a 12-week treatment withdrawal phase (‘A2’) and a 24-week structured follow-up phase. Seven idiographic daily measures were collected that created a N = 698 day timeline. Nomothetic outcome measures were collected at baseline and at the end of each phase of the study, and the Session Impact Scale was completed after each treatment session.
+
+**Method:** 106 patients across three services voluntarily attended TDS while on a waiting list for CBT (TDS+CBT). Individual and pooled service pre–post treatment effect sizes were calculated using measures of depression, anxiety and functional impairment. Effectiveness and completion rates for TDS+CBT were compared with a propensity score matched sample from an archival dataset of cases who received high-intensity CBT only.
+
+**Conclusions:** The study suggests that the CAT intervention was partially successful and that it is possible to integrate good research practice with clinical innovation. The methodological strengths and limitations of the design and the clinical implications of the results are discussed.

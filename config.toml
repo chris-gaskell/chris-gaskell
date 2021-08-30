@@ -124,16 +124,16 @@ enableEmoji = true
     title = "Publications"
     url = "/blog/"
     weight = 2
-#  [[menu.header]]
-#    name = "Projects"
-#    title = "Project Portfolio"
-#    url = "/project/"
-#    weight = 3
-#  [[menu.header]]
-#    name = "Teaching"
-#    title = "Talks"
-#    url = "/talk/"
-#    weight = 4
+  [[menu.header]]
+    name = "Projects"
+    title = "Project Portfolio"
+    url = "/project/"
+    weight = 3
+  [[menu.header]]
+    name = "Teaching"
+    title = "Talks"
+    url = "/talk/"
+    weight = 4
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
@@ -151,11 +151,11 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
+  [[menu.header]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 2
+    weight = 6
   [[menu.footer]]
     name = "Contributors"
     title = "Contributors"

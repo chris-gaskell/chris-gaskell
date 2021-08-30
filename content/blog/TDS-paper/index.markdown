@@ -1,28 +1,25 @@
 ---
-title: 'Effectiveness of transdiagnostic seminars to support patients with common mental disorders: A multi-service practice research network study'
-date: '2021-27-08'
-slug: tds-seminars
+title: 'Effectiveness of the unified protocol for treating co-morbid health anxiety and depression: An empirical case study'
+date: '2021-24-05'
+slug: UP-health-anxiety
 categories:
-  - 'Behavioural and Cognitive Psychotherapy, 49(4)'
+  - 'Behavioural and Cognitive Psychotherapy, in press'
 tags:
-- Attrition
-- CBT
-- IAPT
-- Attrition
-- Pre-treatment
-- Waiting-list
+- Depression
+- Health Anxiety
+- Single Case Experimental Designs
+- Therapy Outcome
 author:
 - Gaskell, C., 
-- Askey-Jones, R., 
-- Groom., M., &
-- Delgadillo, J.
-doi: https://doi.org/10.1371/journal.pone.0166392
-publishDate: '2021-03-12T01:04:26-04:00'
+- Hague B., &
+- Kellett, S.
+doi: 10.1017/S1352465821000205
+publishDate: '2021-05-24T01:04:26-04:00'
 publication_types:
-  - '1'
-publication: '*Behavioural and Cognitive Psychotherapy, 49*(4)'
+  - '2'
+publication: 'Behavioural and Cognitive Psychotherapy, in press'
 publication_short: 'BACP'
-abstract: '*Behavioural and Cognitive Psychotherapy, 49*(4)'
+abstract: 'Behavioural and Cognitive Psychotherapy, in press'
 featured: no
 url_pdf: ~
 url_code: ~
@@ -30,7 +27,7 @@ url_dataset: ~
 url_poster: ~
 url_project: ~
 url_slides: ~
-url_source: https://www.researchgate.net/profile/Ryan-Askey/publication/348848184_Effectiveness_of_transdiagnostic_seminars_to_support_patients_with_common_mental_disorders_A_multi-service_practice_research_network_study/links/604e6545a6fdcccfee813a27/Effectiveness-of-transdiagnostic-seminars-to-support-patients-with-common-mental-disorders-A-multi-service-practice-research-network-study.pdf
+url_source: https://eprints.whiterose.ac.uk/174906/3/Effectiveness%20of%20the%20unified%20protocol%20for%20treating%20co-morbid%20health%20anxiety%20and%20depression%20-%20an%20empirical%20case%20study.pdf
 url_video: ~
 image:
   caption: ''
@@ -39,16 +36,28 @@ image:
 projects: []
 slides: ''
 links:
-- icon: file-pdf
-  icon_pack: fas
-  name: PDF
-  url: https://www.researchgate.net/profile/Ryan-Askey/publication/348848184_Effectiveness_of_transdiagnostic_seminars_to_support_patients_with_common_mental_disorders_A_multi-service_practice_research_network_study/links/604e6545a6fdcccfee813a27/Effectiveness-of-transdiagnostic-seminars-to-support-patients-with-common-mental-disorders-A-multi-service-practice-research-network-study.pdf
 - icon: doi
   icon_pack: ai
   name: doi
-  url: https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/abs/effectiveness-of-transdiagnostic-seminars-to-support-patients-with-common-mental-disorders-a-multiservice-practice-research-network-study/2142DC8031FD2F75738777E40333A84B
+  url: https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/effectiveness-of-the-unified-protocol-for-treating-comorbid-health-anxiety-and-depression-an-empirical-case-study/2F78E09677456695C8C9387E77D9D2C3
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF
+  url: https://eprints.whiterose.ac.uk/174906/3/Effectiveness%20of%20the%20unified%20protocol%20for%20treating%20co-morbid%20health%20anxiety%20and%20depression%20-%20an%20empirical%20case%20study.pdf
+#- icon: file-archive
+#  icon_pack: fas
+#  name: BIB
+#  url: content/blog/TDS-paper/shiny-guide.pdf
+
+  
 ---
 
 ## **Abstract**
 
-Background - This was a multi-site evaluation of psycho-educational transdiagnostic seminars (TDS) as a pre-treatment intervention to enhance the effectiveness and utilisation of high-intensity cognitive behavioural therapy (CBT). Aims - To evaluate the effectiveness of TDS combined with high-intensity CBT (TDS+CBT) versus a matched sample receiving CBT only. Second, to determine the consistency of results across participating services which employed CBT+TDS. Finally, to determine the acceptability of TDS across patients with different psychological disorders. Method - 106 patients across three services voluntarily attended TDS while on a waiting list for CBT (TDS+CBT). Individual and pooled service pre–post treatment effect sizes were calculated using measures of depression, anxiety and functional impairment. Effectiveness and completion rates for TDS+CBT were compared with a propensity score matched sample from an archival dataset of cases who received high-intensity CBT only. Results - Pre–post treatment effect sizes for TDS+CBT were comparable to the matched sample. Recovery rates were greater for the group receiving TDS; however, this was not statistically significant. Greater improvements were observed during the waiting-list period for patients who had received TDS for depression (d = 0.49 compared with d = 0.07) and anxiety (d = 0.36 compared with d = 0.04). Conclusions - Overall, this new evidence found a trend for TDS improving symptoms while awaiting CBT across three separate IAPT services. The effectiveness of TDS now warrants further exploration through an appropriately sized randomised control trial.
+**Aims:** The Unified Protocol (UP) is indicated when patients present with comorbidity, but no studies have investigated the effectiveness of the UP with comorbid health anxiety and depression.
+
+**Method:** An A/B single case design evaluated outcomes for a 27-year-old male presenting with health anxiety and comorbid depression. Following a 21-day assessment- baseline period, the manualised UP was delivered across a 42-day period containing seven intervention sessions. Four idiographic measures (occurrence and duration of health checking, sleep duration and food intake satisfaction) were collected daily throughout and two nomothetic measures were collected at four time-points.
+
+**Results:** All sessions were attended. Number of health checking episodes reduced from four per day to two per day. A 59 minute per day reduction in time spent health checking occurred and sleep increased by 100-minutes per night. There was little apparent change in terms of food intake satisfaction. There was a reliable and clinically significant reduction in depression.
+
+**Discussion:** Further testing of the effectiveness of the UP with comorbid health anxiety and depression in a true single case experimental design is now indicated.
