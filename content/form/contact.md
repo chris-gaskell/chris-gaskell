@@ -2,7 +2,7 @@
 date: "2021-08-30T13:38:41-06:00"
 description: Feel free to get in touch!
 draft: false
-formspree_form_id: cgaskell1@sheffield.ac.uk
+formspree_form_id: https://formspree.io/f/xgerrvbe
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
