@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: lorem ipsom
+description: 
 image_left: false
 images:
 - me.jpg

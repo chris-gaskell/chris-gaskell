@@ -1,8 +1,7 @@
 ---
 title: Publications
-description: |
-  This is home for my research publications.
-author: "Chris Gaskell"
+description:
+author:
 show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true

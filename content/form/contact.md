@@ -1,7 +1,7 @@
 ---
 title: Drop me a line.
 name: Contact Form
-description: "Please feel free to get in touch :)"
+description:
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact

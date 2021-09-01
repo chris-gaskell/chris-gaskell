@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Here is some of the projects that I am working on lately.
+description: Here are some of the projects that I am currently working on.
 layout: list-grid
 show_author_byline: true
 show_post_date: false
