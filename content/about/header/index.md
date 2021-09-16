@@ -19,3 +19,5 @@ In my spare time I like to contribute to clinically orientated research. I am an
 For the last couple of years I have been looking for ways to merge my interests of clinical psychology and data science/innovation.
 
 Here is a link to my [cv](resume.pdf) and [visual cv](visual-resume.pdf)
+
+<a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/chrisgaskell92?ref_src=twsrc%5Etfw">My Recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
