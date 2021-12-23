@@ -4,7 +4,7 @@ author:
 date: '2021-07-21T10:00:00'
 time_start: '2021-07-21T10:00:00'
 time_end: '2021-07-21T12:00:00'
-slug: metaanalysis-viz
+slug: chal-behaviour
 event: 'Teaching for acute hospital staff at Salford Royal NHS foundation trust'
 location: Manchester, UK
 event_url: 

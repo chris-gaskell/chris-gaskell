@@ -1,8 +1,9 @@
 ---
 author: Chris Gaskell
 categories:
-- fnd
-- nead
+- sced
+- R
+- psychotherapy
 - teaching
 date: "2021-01-01"
 draft: false
@@ -12,10 +13,10 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://fnd-for-paramedics.netlify.com/
-subtitle: FND for paramedics
+  url: https://sced-for-clinicians.netlify.com/
+subtitle: SCED for Clinicians
 tags:
 - sced
-title: FND for paramedics
+title: SCED for Clinicians
 ---
 
