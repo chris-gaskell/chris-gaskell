@@ -1,27 +1,29 @@
 ---
-title: 'Single case experimental design in psychology'
+title: 'Using R in Clinical Psychology'
 author:
-date: '2021-10-20T09:30:00'
-time_start: '2021-10-20T09:30:00'
-time_end: '2021-10-21T13:00:00'
-slug: single-case
-event: 'A guide on single case experimental design for psychotherapy For the current students at the University of Sheffield'
-location: University of Sheffield, UK
+date: '2021-12-17T14:00:00'
+time_start: '2021-12-17T14:00:00'
+time_end: '2021-12-17T15:00:00'
+slug: r-for-cp
+event: 'A Showcase on the applications of R For clinical psychology'
+location: Zoom
 event_url: 
 categories:
-  - SCED
-  - Teaching
+  - R
+  - Innovation
 tags: []
 subtitle: ''
-abstract: 'A guide on single case experimental design for psychotherapy For the current students at the University of Sheffield'
+abstract: 'A Showcase on the applications of R For clinical psychology'
 authors: []
-lastmod: '2021-10-20T09:30:00'
+lastmod: '2021-12-17T14:00:00'
 featured: no
 image:
-  caption:
+  caption: null
   focal_point: ''
   preview_only: no
 ---
+
+Slides enclosed.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(eval=FALSE)
@@ -30,6 +32,6 @@ xaringanExtra::use_clipboard()
 ```
 
 ```{r embed-xaringan, echo=FALSE, eval=TRUE}
-xaringanExtra::embed_xaringan(url = "https://chris-gaskell.github.io/uos-sced/day-one/index.html")
+xaringanExtra::embed_xaringan(url = "https://r-for-cp.netlify.app")
 ```
 
