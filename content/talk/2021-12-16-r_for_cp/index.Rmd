@@ -21,6 +21,7 @@ image:
   caption: null
   focal_point: ''
   preview_only: no
+excerpt: ""
 ---
 
 Slides enclosed.
