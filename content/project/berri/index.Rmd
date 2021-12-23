@@ -1,8 +1,8 @@
 ---
-title: Functional neurological disorders
+title: berri
 author:
 draft: yes
-slug: functional-symptoms
+slug: berri-project
 categories:
   - fnd
   - nead

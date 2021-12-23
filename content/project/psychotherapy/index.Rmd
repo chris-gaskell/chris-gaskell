@@ -1,8 +1,8 @@
 ---
-title: Single case design
+title: Psychotherapy research
 author:
 draft: yes  
-slug: SCED-project
+slug: Psychotherapy-project
 categories:
   - sced
   - R
