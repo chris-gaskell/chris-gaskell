@@ -1,0 +1,36 @@
+---
+title: An introduction to functional symptoms for paramedics
+author:
+date: '2021-10-04T09:00:00'
+time_start: '2021-10-04T09:00:00'
+time_end: '2021-10-04T12:30:00'
+slug: fnd-paramedics
+event: 'Undergraduate teaching about functional symptoms for trainee paramedics at Edgehill University'
+location: Zoom
+event_url: 
+categories:
+  - Teaching
+  - FND
+tags: []
+subtitle: ''
+abstract: 'Undergraduate teaching about functional symptoms for trainee paramedics at Edgehill University'
+authors: []
+lastmod: false
+featured: no
+image:
+  caption:
+  focal_point: ''
+  preview_only: no
+---
+
+# Testing
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE)
+
+xaringanExtra::use_clipboard()
+```
+
+```{r embed-xaringan, echo=FALSE, eval=TRUE}
+xaringanExtra::embed_xaringan(url = "https://fnd-for-paramedics.netlify.app")
+```

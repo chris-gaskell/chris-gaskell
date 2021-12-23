@@ -1,0 +1,36 @@
+---
+title: 'Using R in Clinical Psychology'
+author:
+date: '2021-12-16T14:00:00'
+time_start: '2021-12-16T14:00:00'
+time_end: '2021-12-16T15:00:00'
+slug: r-for-cp
+event: 'A short showcase in applications of all for clinical psychology'
+location: Zoom
+event_url: 
+categories:
+  - Teaching
+  - R
+  - Innovation
+tags: []
+subtitle: ''
+abstract: 'A short showcase in applications of all for clinical psychology'
+authors: []
+lastmod: '2021-12-16T14:00:00'
+featured: no
+image:
+  caption:
+  focal_point: ''
+  preview_only: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval=FALSE)
+
+xaringanExtra::use_clipboard()
+```
+
+```{r embed-xaringan, echo=FALSE, eval=TRUE}
+xaringanExtra::embed_xaringan(url = "https://r-for-cp.netlify.app")
+```
+
