@@ -1,7 +1,6 @@
 ---
 title: berri
 author:
-draft: yes
 slug: berri-project
 categories:
   - fnd
