@@ -1,15 +1,21 @@
-### Hi there 👋
+### Hi there, i'm [Chris][website] ♂️ 👋
 
-**chris-gaskell/chris-gaskell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for dropping by my GitHub page :slightly_smiling_face:
 
-Here are some ideas to get you started:
+## I'm a clinical psychologist working in Manchester, UK :england:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I like to learn about R and find ways to use it for my research :man_technologist: and clinical practice :man_health_worker:
 
+## Reach out 👋 
+
+[<img align="left" alt="chris-gaskell.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="chris-gaskell | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="chris-gaskell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+</details>
+
+[website]: https://chris-gaskell.com
+[twitter]: https://twitter.com/chrisgaskell92
+[linkedin]: https://linkedin.com/in/chris-gaskell-430a39111
