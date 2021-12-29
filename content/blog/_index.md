@@ -2,7 +2,7 @@
 title: Publications
 description:
 author:
-show_post_thumbnail: false
+show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
 show_post_date: true
