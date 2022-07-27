@@ -23,8 +23,7 @@ I am a big advocate of teaching, sharing resources and innovation :rocket:
 
 For the last couple of years I have been looking for ways to merge my interests of clinical psychology, data science & innovation.
 
-[comment]: <> (
-Here is a link to my [cv](resume.pdf) and [visual cv](visual-resume.pdf)
-)
+Here is a link to my [clinical](clinical_cv.pdf), [academic](academic_cv.pdf), and [visual](visual-resume.pdf) cvs
+
 
 <a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/chrisgaskell92?ref_src=twsrc%5Etfw">Here are my recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

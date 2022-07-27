@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nead on Dr. Chris Gaskell</title>
+    <link>/categories/nead/</link>
+    <description>Recent content in nead on Dr. Chris Gaskell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jul 2021 18:30:00 +0000</lastBuildDate><atom:link href="/categories/nead/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functional neurological disorders</title>
+      <link>/project/functional-project/</link>
+      <pubDate>Wed, 21 Jul 2021 18:30:00 +0000</pubDate>
+      
+      <guid>/project/functional-project/</guid>
+      <description>One of my main professional interest areas is in the treatment of functional symptoms. This Work stream is subsequently devoted to clinical practice, research and education around functional symptoms.</description>
+    </item>
+    
+  </channel>
+</rss>

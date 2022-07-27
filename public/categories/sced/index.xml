@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sced on Dr. Chris Gaskell</title>
+    <link>/categories/sced/</link>
+    <description>Recent content in sced on Dr. Chris Gaskell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Oct 2021 09:00:00 +0000</lastBuildDate><atom:link href="/categories/sced/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single case experimental design</title>
+      <link>/talk/sced-for-cp/</link>
+      <pubDate>Wed, 20 Oct 2021 09:00:00 +0000</pubDate>
+      
+      <guid>/talk/sced-for-cp/</guid>
+      <description>    window.xaringanExtraClipboard(null, {&#34;button&#34;:&#34;Copy Code&#34;,&#34;success&#34;:&#34;Copied!&#34;,&#34;error&#34;:&#34;Press Ctrl+C to Copy&#34;})  Slides enclosed.
+ fitvids(&#39;.shareagain&#39;, {players: &#39;iframe&#39;});  </description>
+    </item>
+    
+    <item>
+      <title>Single case design</title>
+      <link>/project/sced-project/</link>
+      <pubDate>Wed, 21 Jul 2021 18:30:00 +0000</pubDate>
+      
+      <guid>/project/sced-project/</guid>
+      <description>This is a project dedicated to advancing the application are single case experimental design within routine practice of psychotherapy.</description>
+    </item>
+    
+  </channel>
+</rss>
