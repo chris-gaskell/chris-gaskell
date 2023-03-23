@@ -1,0 +1,60 @@
+---
+title: 'Long-term psychotherapy in tertiary care: A practice-based benchmarking study'
+date: '2023-03-01'
+slug: sps-empirical
+categories:
+  - 'British Journal of Clinical Psychology'
+tags:
+- Psychotherapy
+- Effectiveness
+- Naturalistic
+- Routine outcomes
+- Tertiary Care
+author:
+- Gaskell, C., 
+- Kellett, S.,
+- Simmonds-Buckley, M.,
+- Curran, J.,
+- Hetherington, J., &
+- Delgadillo, J.
+doi:
+publishDate:
+publication_types:
+  - ''
+publication: '*British Journal of Clinical Psychology*'
+publication_short:
+abstract:
+featured: no
+url_pdf: ~
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: https://www.researchgate.net/publication/369197262_Long-term_psychotherapy_in_tertiary_care_A_practice-based_benchmarking_study
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+links:
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF
+  url: https://www.researchgate.net/publication/369197262_Long-term_psychotherapy_in_tertiary_care_A_practice-based_benchmarking_study
+
+---
+
+## **Abstract**
+
+**Objectives**: The literature regarding the effectiveness of long-term psychological interventions delivered in tertiary care is scarce. This study sought to quantify and evaluate outcomes delivered in a UK tertiary care psychotherapy service against equivalent service benchmarks. 
+
+**Design**: A retrospective analysis of outcomes on the Outcome Questionnaire-45 (OQ-45) over a 10-year period in a tertiary care psychotherapy service. The modalities evaluated were cognitive-behavioural, cognitive-analytic and psychoanalytic psychotherapies.
+
+**Methods**: Effectiveness was calculated at the service level and for each modality using pre-post effect sizes and recovery rates. Benchmarking included a random effects meta-analysis. Trajectories of change for each modality were examined using growth curve modeling.
+
+**Results**: Baseline distress on the OQ-45 was higher than comparative norms (M = 102.57, SD = 22.79, N = 364). The average number of sessions was 48.68 (SD = 42.14, range = 5-335). There was a moderate pre-post treatment effect (d = 0.46, 95% CI = 0.37-0.55) which was lower than available benchmarks. The modalities differed in duration but were largely equivalent in terms of outcome. The reliable improvement rate was 29.95% and the recovery rate was 10.16% and change over time was best explained using a nonlinear (cubic) time trend.
+
+**Conclusions**: The elevated distress at baseline appears to create the conditions for relatively lengthy interventions and attenuated clinical outcomes. Suggestions are made regarding the clinical role, function, and evaluation of tertiary care psychotherapy services.

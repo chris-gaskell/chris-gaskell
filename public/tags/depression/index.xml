@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Depression on Dr. Chris Gaskell</title>
+    <title>depression on Dr. Chris Gaskell</title>
     <link>/tags/depression/</link>
-    <description>Recent content in Depression on Dr. Chris Gaskell</description>
+    <description>Recent content in depression on Dr. Chris Gaskell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 24 May 2021 01:04:26 -0400</lastBuildDate><atom:link href="/tags/depression/index.xml" rel="self" type="application/rss+xml" />
@@ -15,6 +15,15 @@
       <guid>/blog/up-sced/</guid>
       <description>Abstract     Aims: The Unified Protocol (UP) is indicated when patients present with comorbidity, but no studies have investigated the effectiveness of the UP with comorbid health anxiety and depression.
 Method: An A/B single case design evaluated outcomes for a 27-year-old male presenting with health anxiety and comorbid depression. Following a 21-day assessment- baseline period, the manualised UP was delivered across a 42-day period containing seven intervention sessions.</description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Cognitive Analytic Therapy for Mixed Anxiety and Depression in the Context of Borderline Traits: A Quasi-Experimental Single Case Design Evaluation</title>
+      <link>/blog/cat-sced-anx-dep/</link>
+      <pubDate>Fri, 12 Mar 2021 01:04:26 -0400</pubDate>
+      
+      <guid>/blog/cat-sced-anx-dep/</guid>
+      <description>Abstract     The evidence base for the use of cognitive analytic therapy (CAT) as a short-term, integrative and relational psychotherapy for anxiety and depression is building. This study contributes by intensively studying change in two types of quantitative outcomes (ideographic and nomothetic) over treatment time. The study employed an A/B quasi experimental single case design method with a 25-year old male patient with a diagnosis of mixed anxiety and depression in the context of borderline personality disorder (BPD) traits.</description>
     </item>
     
   </channel>

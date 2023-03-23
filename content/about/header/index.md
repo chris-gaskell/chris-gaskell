@@ -14,16 +14,16 @@ I'm highly passionate about all things clinical psychology, particularly the are
 **Lately...**
 I have been working in brain injury and functional neurological disorders :brain:
 
-In my spare time I like to contribute to clinically orientated research :man_technologist::man_health_worker:
+In my spare time I like to contribute to practice-based research :man_technologist::man_health_worker:
 
 
-I am an honorary researcher for the [University of Sheffield](https://www.sheffield.ac.uk) :school:
+I'm an honorary researcher for the [University of Sheffield](https://www.sheffield.ac.uk) :school:
 
 I am a big advocate of teaching, sharing resources and innovation :rocket:
 
 For the last couple of years I have been looking for ways to merge my interests of clinical psychology, data science & innovation.
 
-Here is a link to my [clinical](clinical_cv.pdf), [academic](academic_cv.pdf), and [visual](visual-resume.pdf) cvs
+Here are links to my [clinical](clinical_cv.pdf), [academic](academic_cv.pdf), and [visual](visual-resume.pdf) CVs
 
 
 <a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/chrisgaskell92?ref_src=twsrc%5Etfw">Here are my recent Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

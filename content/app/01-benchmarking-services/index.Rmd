@@ -1,0 +1,21 @@
+---
+title: Benchmarking Therapy Services
+author:
+slug: benchmarking-app
+categories:
+  - Benchmarking
+  - R
+  - Psychotherapy Outcomes Research
+  - Effectiveness
+tags: []
+subtitle: ''
+abstract: 'A Shiny app for establishing a Cohens d effect-size and benchmarking to other services.'
+authors: []
+lastmod: '2023-03-01T00:00:00'
+featured: no
+image:
+  caption:
+  focal_point: ''
+  preview_only: no
+---
+This shiny app calculates a pre-post Cohens d effect-size using the approach provided by Minami et al., (2008) before comparing it to a large set of available benchmarks for routine clinical services (Gaskell et al., 2023).

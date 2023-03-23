@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Mon, 24 May 2021 01:04:26 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Depression</title>
+      <title>depression</title>
       <link>/tags/depression/</link>
       <pubDate>Mon, 24 May 2021 01:04:26 -0400</pubDate>
       
@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>anxiety</title>
+      <link>/tags/anxiety/</link>
+      <pubDate>Fri, 12 Mar 2021 01:04:26 -0400</pubDate>
+      
+      <guid>/tags/anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Attrition</title>
       <link>/tags/attrition/</link>
       <pubDate>Fri, 12 Mar 2021 01:04:26 -0400</pubDate>
@@ -53,11 +62,29 @@
     </item>
     
     <item>
+      <title>BPD</title>
+      <link>/tags/bpd/</link>
+      <pubDate>Fri, 12 Mar 2021 01:04:26 -0400</pubDate>
+      
+      <guid>/tags/bpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CBT</title>
       <link>/tags/cbt/</link>
       <pubDate>Fri, 12 Mar 2021 01:04:26 -0400</pubDate>
       
       <guid>/tags/cbt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive analytic therapy</title>
+      <link>/tags/cognitive-analytic-therapy/</link>
+      <pubDate>Fri, 12 Mar 2021 01:04:26 -0400</pubDate>
+      
+      <guid>/tags/cognitive-analytic-therapy/</guid>
       <description></description>
     </item>
     
@@ -80,11 +107,65 @@
     </item>
     
     <item>
+      <title>single case</title>
+      <link>/tags/single-case/</link>
+      <pubDate>Fri, 12 Mar 2021 01:04:26 -0400</pubDate>
+      
+      <guid>/tags/single-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Waiting-list</title>
       <link>/tags/waiting-list/</link>
       <pubDate>Fri, 12 Mar 2021 01:04:26 -0400</pubDate>
       
       <guid>/tags/waiting-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effectiveness</title>
+      <link>/tags/effectiveness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis</title>
+      <link>/tags/meta-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naturalistic</title>
+      <link>/tags/naturalistic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/naturalistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychotherapy</title>
+      <link>/tags/psychotherapy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/psychotherapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routine outcomes</title>
+      <link>/tags/routine-outcomes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/routine-outcomes/</guid>
       <description></description>
     </item>
     

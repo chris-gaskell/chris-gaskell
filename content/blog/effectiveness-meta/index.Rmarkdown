@@ -1,6 +1,6 @@
 ---
 title: 'The effectiveness of psychological interventions delivered in routine practice. Systematic review and meta-analysis'
-date: '2022-23-09'
+date: '2022-09-23'
 slug: effectiveness-meta
 categories:
   - 'Administration and Policy in Mental Health and Mental Health Services Research'
